@@ -1,0 +1,33 @@
+[submodule "chapter-01"]
+	path = chapter-01
+	url = https://github.com/bwa-book/chapter-01
+[submodule "chapter-07"]
+	path = chapter-07
+	url = https://github.com/bwa-book/chapter-07
+[submodule "chapter-08"]
+	path = chapter-08
+	url = https://github.com/bwa-book/chapter-08
+[submodule "chapter-09"]
+	path = chapter-09
+	url = https://github.com/bwa-book/chapter-09
+[submodule "chapter-14"]
+	path = chapter-14
+	url = https://github.com/bwa-book/chapter-14
+[submodule "chapter-03"]
+	path = chapter-03
+	url = https://github.com/bwa-book/chapter-03
+[submodule "chapter-04"]
+	path = chapter-04
+	url = https://github.com/bwa-book/chapter-04
+[submodule "chapter-06"]
+	path = chapter-06
+	url = https://github.com/bwa-book/chapter-06
+[submodule "chapter-10"]
+	path = chapter-10
+	url = https://github.com/bwa-book/chapter-10
+[submodule "chapter-11"]
+	path = chapter-11
+	url = https://github.com/bwa-book/chapter-11
+[submodule "chapter-12"]
+	path = chapter-12
+	url = https://github.com/bwa-book/chapter-12
